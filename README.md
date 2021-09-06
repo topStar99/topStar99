@@ -38,8 +38,6 @@ My goal is to give you back your project within your right time and to work in a
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/-Postgres-181717?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql">
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-</p> 
-<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
-![](https://hit.yhype.me/github/profile?user_id=75884770)
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 
+</p>  
 
